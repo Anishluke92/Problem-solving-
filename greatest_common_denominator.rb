@@ -10,4 +10,4 @@ numbers.each do |num|
   result.push(num.prime_division)
 end
 
-  print results
+print results
