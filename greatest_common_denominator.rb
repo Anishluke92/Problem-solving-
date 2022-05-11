@@ -7,8 +7,7 @@ numbers = [42,56,14]
 results = []
 
 numbers.each do |num|
-  results.push(num.prime_division)
+  result.push(num.prime_division)
 end
 
 print results
-puts ""
